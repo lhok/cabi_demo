@@ -11,8 +11,238 @@
  *= require_self
  *= require_tree .
  */
-#cabinet{
+.cabinet{
 	width:135px;
 	height:440px;
 	background: url("cabinet440.png");
+}
+.ibm4u{
+	width:103px;
+	height:36px;
+	background: url("ibm4u.png")
+}
+.ibm3u{
+	width:103px;
+	height:27px;
+	background: url("ibm3u.png")
+}
+.ibm2u{
+	width:103px;
+	height:18px;
+	background: url("ibm2u.png")
+}
+.ibm1u{
+	width:103px;
+	height:9px;
+	background: url("ibm1u.png")
+}
+.u42{
+    position:relative;
+    left:16px;
+    top:20px;
+}
+.u41{
+    position:relative;
+    left:16px;
+    top:29px;
+}
+.u40{
+    position:relative;
+    left:16px;
+    top:38px;
+}
+.u39{
+    position:relative;
+    left:16px;
+    top:47px;
+}
+.u38{
+    position:relative;
+    left:16px;
+    top:56px;
+}
+.u37{
+    position:relative;
+    left:16px;
+    top:65px;
+}
+.u36{
+    position:relative;
+    left:16px;
+    top:74px;
+}
+.u35{
+    position:relative;
+    left:16px;
+    top:83px;
+}
+.u34{
+    position:relative;
+    left:16px;
+    top:92px;
+}
+.u33{
+    position:relative;
+    left:16px;
+    top:101px;
+}
+.u32{
+    position:relative;
+    left:16px;
+    top:110px;
+}
+.u31{
+    position:relative;
+    left:16px;
+    top:119px;
+}
+.u30{
+    position:relative;
+    left:16px;
+    top:128px;
+}
+.u29{
+    position:relative;
+    left:16px;
+    top:137px;
+}
+.u28{
+    position:relative;
+    left:16px;
+    top:146px;
+}
+.u27{
+    position:relative;
+    left:16px;
+    top:155px;
+}
+.u26{
+    position:relative;
+    left:16px;
+    top:164px;
+}
+.u25{
+    position:relative;
+    left:16px;
+    top:173px;
+}
+.u24{
+    position:relative;
+    left:16px;
+    top:182px;
+}
+.u23{
+    position:relative;
+    left:16px;
+    top:191px;
+}
+.u22{
+    position:relative;
+    left:16px;
+    top:200px;
+}
+.u21{
+    position:relative;
+    left:16px;
+    top:209px;
+}
+.u20{
+    position:relative;
+    left:16px;
+    top:218px;
+}
+.u19{
+    position:relative;
+    left:16px;
+    top:227px;
+}
+.u18{
+    position:relative;
+    left:16px;
+    top:236px;
+}
+.u17{
+    position:relative;
+    left:16px;
+    top:245px;
+}
+.u16{
+    position:relative;
+    left:16px;
+    top:254px;
+}
+.u15{
+    position:relative;
+    left:16px;
+    top:263px;
+}
+.u14{
+    position:relative;
+    left:16px;
+    top:272px;
+}
+.u13{
+    position:relative;
+    left:16px;
+    top:281px;
+}
+.u12{
+    position:relative;
+    left:16px;
+    top:290px;
+}
+.u11{
+    position:relative;
+    left:16px;
+    top:299px;
+}
+.u10{
+    position:relative;
+    left:16px;
+    top:308px;
+}
+.u9{
+    position:relative;
+    left:16px;
+    top:317px;
+}
+.u8{
+    position:relative;
+    left:16px;
+    top:326px;
+}
+.u7{
+    position:relative;
+    left:16px;
+    top:335px;
+}
+.u6{
+    position:relative;
+    left:16px;
+    top:344px;
+}
+.u5{
+    position:relative;
+    left:16px;
+    top:353px;
+}
+.u4{
+    position:relative;
+    left:16px;
+    top:362px;
+}
+.u3{
+    position:relative;
+    left:16px;
+    top:371px;
+}
+.u2{
+    position:relative;
+    left:16px;
+    top:380px;
+}
+.u1{
+    position:relative;
+    left:16px;
+    top:389px;
 }
